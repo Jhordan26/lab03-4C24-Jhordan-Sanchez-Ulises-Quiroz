@@ -11,7 +11,7 @@ public class clase extends Alumno{
     String curso1 ="matematicas";
     String curso2 ="Comunicacion";
     String curso3="CTA";
-    
+    String curso3="Fisica";
 }
 public class Familia extends Alumno{
     String familiar1 = "Almendra Garcia";
