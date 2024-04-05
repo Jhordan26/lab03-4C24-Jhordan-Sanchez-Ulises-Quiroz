@@ -3,7 +3,7 @@ public class Alumno{
     String apellido = "Valdivia"
 }
 public class Nota extends Alumno{
-    Double nota1=20;
+    Double nota1=16;
     Double nota2=10;
     Double nota4=12.5;
 }
