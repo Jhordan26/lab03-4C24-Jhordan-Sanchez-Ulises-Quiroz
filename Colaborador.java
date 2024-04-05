@@ -14,6 +14,6 @@ public class clase extends Alumno{
     
 }
 public class Familia extends Alumno{
-    String familiar1 = "Edwin Chigne";
+    String familiar1 = "Almendra Garcia";
     String familiar2 = "Valqui Trauco";
 }
