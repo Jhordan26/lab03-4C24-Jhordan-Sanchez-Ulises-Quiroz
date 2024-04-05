@@ -1,3 +1,5 @@
 public class Personas{
-    String nombre = "Jhordan Sanchez"
+    String nombre = "Jhordan Sanchez";
+    Int edad = 20;
+    
 }
