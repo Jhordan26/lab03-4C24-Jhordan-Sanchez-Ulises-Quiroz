@@ -5,5 +5,5 @@ public class Personas{
 }
 public class Docente extends Personas{
     Double sueldo = 200.50
-    
+    Double bonos = 350.25
 }
