@@ -1,6 +1,6 @@
 public class Alumno{
     String nombre = "Ulices";
-    String apellido = "Quiroz"
+    String apellido = "Valdivia"
 }
 public class Nota extends Alumno{
     Double nota1=20;
